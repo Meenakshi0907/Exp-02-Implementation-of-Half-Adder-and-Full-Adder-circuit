@@ -59,20 +59,28 @@ endmodule
 */
 ## Logic symbol & Truthtable
 ### Half Adder:
+![image](https://user-images.githubusercontent.com/94165108/195993629-17b2144d-c16e-4fd1-ab1a-5d52eea05300.png)
+![image](https://user-images.githubusercontent.com/94165108/195993641-77cc8f75-d36a-48df-80ef-4312c0d0f5b6.png)
+![image](https://user-images.githubusercontent.com/94165108/195993645-10c80f4e-ba86-40fb-8a18-aafed07af653.png)
 
 ### Full Adder:
+![image](https://user-images.githubusercontent.com/94165108/195993665-5dda7b9e-cacc-4e08-9b7e-a2e9775818db.png)
+![image](https://user-images.githubusercontent.com/94165108/195993676-671eb6bd-9476-4a1b-b358-6e20e5959370.png)
+![image](https://user-images.githubusercontent.com/94165108/195993685-352e3032-d444-43c3-9c20-ee0be1802b8d.png)
+![image](https://user-images.githubusercontent.com/94165108/195993695-12ce8ef7-b7d8-4ead-9429-20d7b3220701.png)
 
 ## Output:
 ## RTL:
 ### Half Adder:
 ![ha2](./ha2.png)
 ### Full Adder:
-![fa2](./fa%202.png)
+![fa 2](https://user-images.githubusercontent.com/94165108/195993714-37e9010b-20b9-4cf2-93ba-54e2ea5d7a4d.png)
+
 ## TIMING DIAGRAM
 ### Half Adder:
 ![ha1](./ha1.png)
 ### Full Adder:
-![fa](./fa%201.png)
+![fa 1](https://user-images.githubusercontent.com/94165108/195993730-0a42b21d-07e8-4a4c-a8ec-ed8ae1797c75.png)
 
 ## Result:
 Designing of a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming is sucessfully done
